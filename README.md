@@ -1,4 +1,4 @@
--  Hi, I’m Monica! 👋
+-  Hi, I’m Monica!👋
 - I am a passionate and dedicated Computer Science major currently pursuing my undergraduate degree. With a strong interest in technology and problem-solving, I am enthusiastic about exploring the vast and ever-evolving field of computer science.😎
 
 
