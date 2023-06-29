@@ -1,6 +1,5 @@
 -  Hi, I’m Monica! 👋
--  I am a passionate Computer Science major with a strong interest in software development and open-source projects.
-- I love solving complex problems and creating innovative solutions that make a positive impact on people's lives.😎
+- I am a passionate and dedicated Computer Science major currently pursuing my undergraduate degree. With a strong interest in technology and problem-solving, I am enthusiastic about exploring the vast and ever-evolving field of computer science.😎
 
 
 <!---
